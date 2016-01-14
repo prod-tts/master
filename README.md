@@ -1,4 +1,4 @@
 # Master remove controller
 ----------------
-- 7000 : edison01.pointlook.com
-- 7001 : edison-board-01.pointlook.com
+- 7001 : www.thingtosell.com
+- 7002 : db01.thingtosell.com
