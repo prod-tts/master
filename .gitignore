@@ -3,3 +3,6 @@
 .ssh
 .cache
 .viminfo
+src
+work
+tmp
